@@ -1,3 +1,5 @@
+Telegram bot built on https://github.com/telegraf/telegraf
+
 ## Deploy docker image:
 
 ```
