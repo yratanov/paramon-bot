@@ -10,7 +10,9 @@ bot.telegram.getMe().then((botInfo) => {
 
 const dsMessage = require('./lib/dark_souls_message');
 const pollution = require('./lib/pollution');
+const exchange = require('./lib/exchange_rate');
 
 dsMessage(bot);
 pollution(bot);
+exchange(bot);
 bot.startPolling();
