@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/yratanov/paramon-bot/issues"
   },
-  "homepage": "https://github.com/yratanov/paramon-bot#readme"
+  "homepage": "https://github.com/yratanov/paramon-bot#readme",
+  "engines": {
+    "node": "7.10"
+  }
 }
