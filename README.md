@@ -13,5 +13,5 @@ On the server:
 docker pull yratanov/paramon-bot
 docker stop paramon-bot
 docker rm paramon-bot
-docker run -d --name paramon-bot -e TELEGRAM_TOKEN=<token> yratanov/paramon-bot
+docker run -d --name paramon-bot -e TELEGRAM_TOKEN=<token> NEWS_API_KEY=<key> yratanov/paramon-bot
 ```
