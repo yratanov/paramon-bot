@@ -1,5 +1,10 @@
 Telegram bot built on https://github.com/telegraf/telegraf
 
+```
+brew install pkg-config cairo pango libpng jpeg giflib librsvg
+```
+see https://github.com/Automattic/node-canvas#compiling
+
 ## Deploy docker image:
 
 ```
